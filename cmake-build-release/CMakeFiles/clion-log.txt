@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja /Users/skye/master/stage3/development/gtest_gmock
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/skye/master/stage3/development/gtest_gmock/cmake-build-release

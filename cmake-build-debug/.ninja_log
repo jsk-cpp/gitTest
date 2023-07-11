@@ -1,0 +1,4 @@
+# ninja log v5
+1	875	1689049560334719677	CMakeFiles/gtest_gmock.dir/src/main.cpp.o	f780b5baa8caa2d9
+864	936	1689048620073103583	gtest_gmock	1bceedc939b99c6b
+1	2077	1689051647223638256	CMakeFiles/gtest_gmock.dir/src/main.cpp.o	f780b5baa8caa2d9
